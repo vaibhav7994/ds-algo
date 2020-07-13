@@ -1,2 +1,3 @@
 # DS-ALGO
-Some of the basic Implementations in data structures and algorithms
+
+Basic Implementations of data structures and algorithms
