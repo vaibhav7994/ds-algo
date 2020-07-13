@@ -1,2 +1,2 @@
 # DS-ALGO
-A playground for interesting problems and implementations in data structures and algorithms
+Some of the basic Implementations in data structures and algorithms
